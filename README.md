@@ -87,6 +87,10 @@ You can host your site using one of these solutions or any of our other trusted 
 
 [RockPaperScissor](https://abieproject10-rockpaperscissor.netlify.app/)
 
+## For Video reference
+
+[click here](https://www.youtube.com/watch?v=P_H4_miTKsI)
+
 ## Create a custom `README.md`
 
 We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
